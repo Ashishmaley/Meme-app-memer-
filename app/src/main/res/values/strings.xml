@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">memer</string>
+    <string name="share">share</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="truemerer">Truemerer</string>
+    <string name="icon">icon</string>
+    <string name="made_with">Made With💕</string>
+    <string name="splashicon">splashicon</string>
+</resources>
